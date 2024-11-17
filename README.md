@@ -30,9 +30,9 @@ Welcome to the **Advanced To-Do List Restaurant**! This project combines a dynam
 ## 🖼️ Preview
 
 ### Store Banner
-![Store Banner](store-banner.png)
+![Store Banner](![store-banner](https://github.com/user-attachments/assets/91652abb-eeaf-42d8-819c-c59f30d717fd))
 
-### Mock Menu Items
+###Menu Items
 ![Menu Example](dish1.png) ![Menu Example](dish2.png)
 
 ## 🛠️ Technologies Used
