@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced To-Do List Restaurant</title>
+    <link rel="stylesheet" href="todolist.css">
+</head>
+<body>
+    <!-- Banner Section -->
+    <header class="store-banner">
+        <img src="store-banner.png" alt="Store Banner Image" class="banner-img">
+        <h1>Welcome to My To-Do List Restaurant</h1>
+        <p>Discover delicious meals and organize your day!</p>
+    </header>
+
+    <!-- Main Content Section -->
+    <div class="store-container">
+        <!-- To-Do List Section -->
+        <div class="todo-section">
+            <h2>Order Your Food</h2>
+            <input type="text" placeholder="Enter a dish name" id="input">
+            <button id="btn">Add Task</button>
+            <ul id="ul"></ul>
+        </div>
+
+        <!-- Mock Products Section -->
+        <div class="store-products">
+            <h2 style="text-align: center;">Menu</h2>
+            <div class="product-card" data-name="Chicken Tikka">
+                <img src="dish1.png" alt="Chicken Tikka">
+                <p>Chicken Tikka</p>
+            </div>
+            <div class="product-card" data-name="Chicken 65">
+                <img src="dish2.png" alt="Chicken 65">
+                <p>Chicken 65</p>
+            </div>
+            <div class="product-card" data-name="Chicken Manchuria">
+                <img src="dish3.png" alt="Chicken Manchuria">
+                <p>Chicken Manchuria</p>
+            </div>
+            <div class="product-card" data-name="Chicken Tandoori">
+                <img src="dish4.png" alt="Chicken Tandoori">
+                <p>Chicken Tandoori</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Filter and Priority Section -->
+    <div class="extra-features">
+        <h2>Filter Options</h2>
+        <select id="filter">
+            <option value="all">All</option>
+            <option value="completed">Completed</option>
+            <option value="pending">Pending</option>
+        </select>
+        <h2>Set Task Priority</h2>
+        <button id="high-priority">High Priority</button>
+        <button id="low-priority">Low Priority</button>
+    </div>
+
+    <!-- Footer Section -->
+    <footer class="store-footer">
+        <p>© 2024 My To-Do List Store | Created with ❤️</p>
+    </footer>
+
+    <script src="todolist.js"></script>
+</body>
+</html>
