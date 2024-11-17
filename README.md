@@ -29,11 +29,22 @@ Welcome to the **Advanced To-Do List Restaurant**! This project combines a dynam
 
 ## 🖼️ Preview
 
-### Store Banner
-![Store Banner](![store-banner](https://github.com/user-attachments/assets/91652abb-eeaf-42d8-819c-c59f30d717fd))
+### Store Banner:
+<br>
+
+![store-banner](https://github.com/user-attachments/assets/91652abb-eeaf-42d8-819c-c59f30d717fd)
+
+<br>
 
 ###Menu Items
-![Menu Example](dish1.png) ![Menu Example](dish2.png)
+<br>
+
+![dish1](https://github.com/user-attachments/assets/efa88ea0-50cc-4fe2-9769-ed915289280c)
+
+<br>
+
+![dish2](https://github.com/user-attachments/assets/5c081686-a969-4a25-ab6b-b976ade6dd4b)
+
 
 ## 🛠️ Technologies Used
 
@@ -41,5 +52,4 @@ Welcome to the **Advanced To-Do List Restaurant**! This project combines a dynam
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactive functionality and dynamic elements.
 
-## 📂 File Structure
 
